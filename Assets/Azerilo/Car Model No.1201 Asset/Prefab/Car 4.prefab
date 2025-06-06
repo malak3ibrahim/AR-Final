@@ -1385,6 +1385,7 @@ GameObject:
   - component: {fileID: 4840581452565545325}
   - component: {fileID: -6239641702271947977}
   - component: {fileID: -4336187831650746866}
+  - component: {fileID: -4430419192010440171}
   m_Layer: 0
   m_Name: Car 4
   m_TagString: Untagged
@@ -1906,6 +1907,19 @@ MonoBehaviour:
   m_ElasticRatioLimit: 0
   m_Sensitivity: 0.75
   m_Elasticity: 0.15
+--- !u!114 &-4430419192010440171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1339424909602166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a57a992d1044754ab64daeaae88fbb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 0}
 --- !u!1 &1380310252283028
 GameObject:
   m_ObjectHideFlags: 0
